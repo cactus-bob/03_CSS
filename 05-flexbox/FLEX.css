@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    padding: 5px 20px;
+    display: flex;
+    color: #000000;
+    justify-content: center;
+    margin-block: 20px;
+}
+
+.flex {
+    color: #000000;
+    font-size: 35px;
+    font-style: initial;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+nav a {
+    color: rgb(92 92 94 / 0.59);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content:space-around;
+    font-size: 14px;
+    margin: 60px;
+}
+.container {
+    margin-block: 80px;
+}
+
+
+
+
+
+
